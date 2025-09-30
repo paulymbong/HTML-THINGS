@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>HTML Background Colors</title>
+</head>
+<body>
+  <h1 style="background-color:Tomato; text-align: center;">What's My Color</h1>
+  <h1 style="background-color:Orange;">HTML BACKGROUND COLORS</h1>
+  <h1 style="background-color:DodgerBlue;">HTML BACKGROUND COLORS</h1>
+  <h1 style="background-color:MediumSeaGreen;">HTML BACKGROUND COLORS</h1>
+  <h1 style="background-color:Gray;">HTML BACKGROUND COLORS</h1>
+  <h1 style="background-color:SlateBlue;">HTML BACKGROUND COLORS</h1>
+  <h1 style="background-color:Violet;">HTML BACKGROUND COLORS</h1>
+  <h1 style="background-color:LightGray;">HTML BACKGROUND COLORS</h1>
+  <h1 style="background-color:Yellow;">HTML BACKGROUND COLORS</h1>
+
+  <p style="color:red; font-weight:bold;">
+  </p>
+</body>
+</html>
