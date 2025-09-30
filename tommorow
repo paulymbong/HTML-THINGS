@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <h2>Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the "present". </h2>
+
+  <h2>Yesterday is history,&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; tomorrow is a mystery, but today is a gift. &nbsp; &nbsp;&nbsp;&nbsp;That is why it is called the "present". </h2>
+
+  <h2>Yesterday is history,<br>
+  tomorrow is a mystery, but today is a gift.<br>
+  That is why it is called the "present". </h2>
+</body>
+</html>
