@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Students of LLCC by Paul</title>
+</head>
+<body>
+  <h3>Students of LLCC</h3>
+  <table border="1" cellpadding="10" cellspacing="0">
+    <tr>
+      <th>First Name</th>
+      <th>Last Name</th>
+      <th>Address</th>
+      <th>Profession</th>
+      <th>Mobile Number</th>
+    </tr>
+    <tr>
+      <td>Cameron</td>
+      <td>Ymbong</td>
+      <td>Lapu-Lapu City</td>
+      <td>Student</td>
+      <td>091234567892</td>
+    </tr>
+    <tr>
+      <td>Paul</td>
+      <td>Seguisabal</td>
+      <td>Cebu City</td>
+      <td>College Admin</td>
+      <td>09126543892</td>
+    </tr>
+  </table>
+
+  <br><br>
+
+  <h3>Students of LLCC</h3>
+  <table border="1" cellpadding="10" cellspacing="0">
+    <tr>
+        <th colspan="2">First Name</th>
+      <th>Last Name</th>
+      <th>Address</th>
+      <th>Profession</th>
+      <th>Mobile Number</th>
+    </tr>
+    <tr>
+      <th rowspan="2">COT Students</th>
+      <td>Paul</td>
+      <td>Ymbong</td>
+      <td>Lapu-Lapu City</td>
+      <td>College Instructor</td>
+      <td>091234567892</td>
+    </tr>
+    <tr>
+      <td>Cameron</td>
+      <td>Seguisabal</td>
+      <td>Cebu City</td>
+      <td>College Admin</td>
+      <td>09126543892</td>
+    </tr>
+  </table>
+</body>
+</html>
